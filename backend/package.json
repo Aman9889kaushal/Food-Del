@@ -5,7 +5,7 @@
   "type":"module",
   "scripts": {
     "server":"nodemon server.js",
-    "postinstall": "npm rebuild bcrypt --build-from-source",
+    "postinstall": "npm rebuild bcrypt --build-from-source"
   },
   "author": "",
   "license": "ISC",
